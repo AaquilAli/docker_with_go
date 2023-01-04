@@ -1,5 +1,3 @@
-# docker_with_go
-A simple go app deployed in a docker 
 
 1. Build a docker image of your project using below command
    docker build -t docker-test .
